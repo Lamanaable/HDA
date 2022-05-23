@@ -1,4 +1,5 @@
 # History files
-.csv
-.rds
-/Data
+*.csv
+*.rds
+Data/
+.ipynb_checkpoints/
