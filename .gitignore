@@ -1,6 +1,7 @@
 # History files
 *.csv
 *.rds
+*.pdf
 Data/
 Plots/
 Scripts/.ipynb_checkpoints/
