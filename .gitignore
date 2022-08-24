@@ -2,5 +2,6 @@
 *.csv
 *.rds
 Data/
+Plots/
 Scripts/.ipynb_checkpoints/
 lost+found/
